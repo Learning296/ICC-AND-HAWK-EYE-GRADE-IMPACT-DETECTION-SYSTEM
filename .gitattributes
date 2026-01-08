@@ -1,0 +1,3 @@
+module1/models/SLOWFAST_8x8_R50.pyth filter=lfs diff=lfs merge=lfs -text
+module1/r3d_impact.pth filter=lfs diff=lfs merge=lfs -text
+module1/weights/impact_model.pth filter=lfs diff=lfs merge=lfs -text
